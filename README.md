@@ -1,4 +1,4 @@
-##GraphQL Server Spring With Spring Boot
+## GraphQL Server With Spring Boot
 Run application and make a request using the sample<br/>
 query below<br/>
 
